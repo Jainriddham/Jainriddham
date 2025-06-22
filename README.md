@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Riddham!</h1>
+<h1 align="center">👋Hey, I'm Riddham!</h1>
 <h3 align="center">Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊</h3>
 
 - 🚀 I’m currently working on some cool projects! Here's a peek at my most exciting ones: [AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights](https://github.com/Jainriddham/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights)
