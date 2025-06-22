@@ -9,8 +9,6 @@
 
 Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊
 
-🔍 Whether it’s Business Intelligence, Financial Reporting, or Customer Analytics — I strive to derive **actionable insights** that empower smarter decisions.
-
 ---
 
 ### 📌 Quick Facts About Me
