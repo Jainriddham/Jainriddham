@@ -22,12 +22,12 @@ Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming compl
 
 ### 📊 Projects That Define Me
 
-#### 📌 [Business-Insights-360](https://app.powerbi.com/links/RMSYEAo2rl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare) 
+#### 📌[Business-Insights-360](https://app.powerbi.com/links/RMSYEAo2rl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare) 
 **Tools:** SQL, Excel, Power BI  
 📈 Designed dashboards and reports for a hotel chain to explore revenue patterns, customer behavior, and channel profitability.  
 🚀 Focus: OLTP & OLAP design, ETL pipelines, strategic KPIs
 
-#### 📌 FMCG SQL Analytics  
+#### 📌[AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights](https://github.com/Jainriddham/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights)  
 **Tools:** MySQL, Excel  
 🧠 Queried a 1M+ row dataset to uncover sales trends, customer segments, and inventory optimization opportunities  
 💡 Delivered actionable insights through CTEs, JOINS, and window functions
