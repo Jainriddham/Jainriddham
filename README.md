@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming compl
 
 ### 📌 Quick Facts About Me
 
-- 🎓 **B.Tech (Mechanical & Industrial Engineering)** @ MIT Manipal  
+- 🎓 **B.Tech (Mechanical Engineering)** @ MIT Manipal  
 - 🎯 **Current Focus:** Data Analytics & Visualization  
 - 🌱 **Learning:** SQL, Power BI, Excel, Python, Data Warehousing  
 - 🌍 **Fun Fact:** I love bridging the gap between creativity and data!
