@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊
+Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming complex datasets into clear, actionable insights. Proficient in Excel, Power BI, SQL, and Python. I aim to blend technical skills with business insight to create impactful solutions.🚀📊
 
 ---
 
