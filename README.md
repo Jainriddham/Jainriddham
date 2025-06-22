@@ -1,39 +1,20 @@
-👋 Hey, I'm Nilesh!
-Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊
+<h1 align="center">Hi 👋, I'm Riddham!</h1>
+<h3 align="center">Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊</h3>
 
-🧠 Who Am I?
-💼 Current Role: Aspiring Data Analyst | Exploring Data Visualization and Financial Analytics
-📚 Learning: Excel, Power BI, SQL, Python
-💡 I’m Passionate About: Making sense of data to uncover trends, improve processes, and optimize business strategies
-🌍 Fun Fact: I’m always up for a new challenge – whether it’s learning a new tool or tackling a tricky dataset!
-📈 What I’m Working On
-🚀 I’m currently working on some cool projects! Here's a peek at my most exciting ones:
+- 🚀 I’m currently working on some cool projects! Here's a peek at my most exciting ones: [AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights](https://github.com/Jainriddham/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights)
 
-🛒 Sales & Finance Reports for AtliQ Hardware
-Helping AtliQ Hardware optimize its sales strategies and financial health with deep-dive reports on customer performance, market trends, and P&L analysis. All insights to empower decision-makers and fuel growth!
+- 🚀 I’m currently working on some cool projects! Here's a peek at my most exciting ones: [Business-Insights-360](https://app.powerbi.com/links/RMSYEAo2rl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
 
-Skills: Excel (Pivot Tables, Power Query), Basic DAX
-🛒 Business_Insgihts_360
-This project focuses on creating an interactive Power BI dashboard to analyze key business metrics and provide actionable insights for strategic decision-making. It showcases advanced data visualization techniques to evaluate performance and unlock growth opportunities.!
+- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Riddham-Jain](https://codebasics.io/portfolio/Riddham-Jain)
 
-Skills: Power BI, DAX, Power Query, SQL
-🛠️ My Tech Toolbox
-I work with a variety of tools to bring data to life. Here’s what’s in my arsenal:
+- 🛠️ My Tech Toolbox **I work with a variety of tools to bring data to life. Here’s what’s in my arsenal: Data Analysis & Visualization: Power BI, Excel Programming & Data Processing: Python, SQL, C ETL & Data Modeling: Power Query, Power Pivot, DAX Version Control: Git, GitHub**
 
-Data Analysis & Visualization: Power BI, Excel
-Programming & Data Processing: Python, SQL, C
-ETL & Data Modeling: Power Query, Power Pivot, DAX
-Version Control: Git, GitHub
-🌟 My Achievements
-🎓 Completed Data Visualization Program with Forage in collaboration with TATA
-💼 FMCG Sales Analytics Project: Optimized business sales strategies with in-depth Excel and Power BI reports
-🛠️ Learning Git & GitHub: Building my version control expertise for better collaboration and project management
+- 📫 How to reach me **riddhamjainat29@gmail.com**
 
-🌍 Let's Connect!
-I’m always excited to collaborate on data-driven projects, share knowledge, and learn from others. Whether you’re interested in data analytics, business insights, or just want to chat about the power of data – feel free to connect!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/ridjain29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ridjain29" height="30" width="40" /></a>
+</p>
 
-🔗 You can find me on:
-
-LinkedIn
-Twitter
-Email
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
