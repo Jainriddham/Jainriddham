@@ -63,7 +63,7 @@ Showcases my best work, learnings, and growth as a data analyst in a clean, visu
 
 ### 📫 Let’s Connect
 
-- 🌐 **Portfolio:** [riddhamjain.codebasics.dev](https://codebasics.io/portfolio/Riddham-Jain)  
+- 🌐 **Portfolio:** [https://codebasics.io/portfolio/Riddham-Jain]  
 - 💼 **LinkedIn:** [www.linkedin.com/in/ridjain29] 
 - 📧 **Email:** riddhamjainat29@gmail.com  
 - 🧠 **Learning Blog (Coming Soon)**  
