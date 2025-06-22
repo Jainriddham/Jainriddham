@@ -1,20 +1,88 @@
-<h1 align="center">👋Hey, I'm Riddham!</h1>
-<h3 align="center">Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊</h3>
-
-- 🚀 I’m currently working on some cool projects! Here's a peek at my most exciting ones: [AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights](https://github.com/Jainriddham/AtliQ-Hardware-Consumer-Goods-Ad-Hoc-Insights)
-
-- 🚀 I’m currently working on some cool projects! Here's a peek at my most exciting ones: [Business-Insights-360](https://app.powerbi.com/links/RMSYEAo2rl?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
-
-- 👨‍💻 All of my projects are available at [https://codebasics.io/portfolio/Riddham-Jain](https://codebasics.io/portfolio/Riddham-Jain)
-
-- 🛠️ My Tech Toolbox **I work with a variety of tools to bring data to life. Here’s what’s in my arsenal: Data Analysis & Visualization: Power BI, Excel Programming & Data Processing: Python, SQL, C ETL & Data Modeling: Power Query, Power Pivot, DAX Version Control: Git, GitHub**
-
-- 📫 How to reach me **riddhamjainat29@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ridjain29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ridjain29" height="30" width="40" /></a>
+<h1 align="center">Hey there! 👋 I'm Riddham Jain</h1>
+<p align="center">
+  🚀 Aspiring Data Analyst | 🎓 B.Tech in Mechanical & Industrial Engineering | 🎯 Turning Data into Decisions
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+
+Welcome to my GitHub! I’m a Data Analyst in the making with a strong foundation in mechanical engineering and a passion for transforming raw data into meaningful business insights. I enjoy solving real-world problems with data and building end-to-end analytics projects that drive growth and impact.
+
+🔍 Whether it’s Business Intelligence, Financial Reporting, or Customer Analytics — I strive to derive **actionable insights** that empower smarter decisions.
+
+---
+
+### 📌 Quick Facts About Me
+
+- 🎓 **B.Tech (Mechanical & Industrial Engineering)** @ MIT Manipal  
+- 🎯 **Current Focus:** Data Analytics & Visualization  
+- 💼 **Roles Held:**  
+  - Public Relations Head – MAFIA 🎤🎶  
+  - Alumni Relations Head – E-Cell 🚀  
+- 🌱 **Learning:** SQL, Power BI, Excel, Python, Data Warehousing  
+- 🌍 **Fun Fact:** I love bridging the gap between creativity and data!
+
+---
+
+### 📊 Projects That Define Me
+
+#### 📌 AtliQ Grands Business Insights  
+**Tools:** SQL, Excel, Power BI  
+📈 Designed dashboards and reports for a hotel chain to explore revenue patterns, customer behavior, and channel profitability.  
+🚀 Focus: OLTP & OLAP design, ETL pipelines, strategic KPIs
+
+#### 📌 FMCG SQL Analytics  
+**Tools:** MySQL, Excel  
+🧠 Queried a 1M+ row dataset to uncover sales trends, customer segments, and inventory optimization opportunities  
+💡 Delivered actionable insights through CTEs, JOINS, and window functions
+
+#### 📌 Portfolio Website  
+**🔗 [Check it out here!](https://riddhamjain.codebasics.dev/)**  
+Showcases my best work, learnings, and growth as a data analyst in a clean, visual format
+
+---
+
+### 🧰 My Tech Toolbox
+
+| Category                     | Tools & Tech |
+|-----------------------------|--------------|
+| **Data Analytics**          | Excel, Power BI, SQL |
+| **Data Engineering Basics** | Power Query, ETL, DAX |
+| **Programming**             | Python (Pandas, NumPy), SQL |
+| **Version Control**         | Git, GitHub |
+| **Visualization**           | Power BI, Matplotlib |
+| **Other**                   | Machine Learning Basics, ANNs, SEM, XRD (Domain-specific) |
+
+---
+
+### 🌟 Achievements
+
+- 🎓 Completed **Data Analytics Bootcamp** by Codebasics  
+- 📊 Conducted **Magnesium Alloy Testing** using ML (ANNs) + SEM/XRD/AFM  
+- 📈 Delivered **Sales Dashboards** for AtliQ Hardware & Grands  
+- 🎙️ Spearheaded Manipal’s cultural events & entrepreneurship summits
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 **Portfolio:** [riddhamjain.codebasics.dev](https://riddhamjain.codebasics.dev)  
+- 💼 **LinkedIn:** [linkedin.com/in/riddhamjain](https://www.linkedin.com/in/riddhamjain/)  
+- 📧 **Email:** riddhamjain190@gmail.com  
+- 🧠 **Learning Blog (Coming Soon)**  
+
+---
+
+### 🔥 Inspirational Quotes
+
+> *“Without data, you’re just another person with an opinion.”* – W. Edwards Deming  
+> *“Data beats emotions.”* – Sean Rad  
+> *“You can have data without information, but you cannot have information without data.”* – Daniel Keys Moran  
+
+---
+
+### 🚀 Let’s Turn Data into Insight!
+
+If you're working on a data-driven idea or project — I’d love to collaborate or contribute. Let’s explore how data can change the world!
+
