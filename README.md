@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! 👋 I'm Riddham Jain</h1>
 <p align="center">
-  🚀 Aspiring Data Analyst | 🎓 B.Tech in Mechanical & Industrial Engineering | 🎯 Turning Data into Decisions
+  🚀 Aspiring Data Analyst | 🎓 B.Tech in Mechanical Engineering | 🎯 Turning Data into Decisions
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Welcome to my GitHub! I’m a Data Analyst in the making with a strong foundation in mechanical engineering and a passion for transforming raw data into meaningful business insights. I enjoy solving real-world problems with data and building end-to-end analytics projects that drive growth and impact.
+Welcome to my GitHub! I’m a Data Analyst passionate about turning raw data into actionable insights that drive business success. Whether it’s Sales Analytics, Business Intelligence, or Financial Reporting, I love helping organizations harness the power of data to solve complex problems. 🚀📊
 
 🔍 Whether it’s Business Intelligence, Financial Reporting, or Customer Analytics — I strive to derive **actionable insights** that empower smarter decisions.
 
@@ -17,9 +17,6 @@ Welcome to my GitHub! I’m a Data Analyst in the making with a strong foundatio
 
 - 🎓 **B.Tech (Mechanical & Industrial Engineering)** @ MIT Manipal  
 - 🎯 **Current Focus:** Data Analytics & Visualization  
-- 💼 **Roles Held:**  
-  - Public Relations Head – MAFIA 🎤🎶  
-  - Alumni Relations Head – E-Cell 🚀  
 - 🌱 **Learning:** SQL, Power BI, Excel, Python, Data Warehousing  
 - 🌍 **Fun Fact:** I love bridging the gap between creativity and data!
 
@@ -38,7 +35,7 @@ Welcome to my GitHub! I’m a Data Analyst in the making with a strong foundatio
 💡 Delivered actionable insights through CTEs, JOINS, and window functions
 
 #### 📌 Portfolio Website  
-**🔗 [Check it out here!](https://riddhamjain.codebasics.dev/)**  
+**🔗 [Check it out here!](https://codebasics.io/portfolio/Riddham-Jain)**  
 Showcases my best work, learnings, and growth as a data analyst in a clean, visual format
 
 ---
@@ -51,15 +48,16 @@ Showcases my best work, learnings, and growth as a data analyst in a clean, visu
 | **Data Engineering Basics** | Power Query, ETL, DAX |
 | **Programming**             | Python (Pandas, NumPy), SQL |
 | **Version Control**         | Git, GitHub |
-| **Visualization**           | Power BI, Matplotlib |
-| **Other**                   | Machine Learning Basics, ANNs, SEM, XRD (Domain-specific) |
+| **Visualization**           | Power BI, Tableau |
+                 
 
 ---
 
 ### 🌟 Achievements
 
-- 🎓 Completed **Data Analytics Bootcamp** by Codebasics  
-- 📊 Conducted **Magnesium Alloy Testing** using ML (ANNs) + SEM/XRD/AFM  
+- 🎓 Completed **Data Analytics Bootcamp** by Codebasics
+- 🎓 Completed Data Visualization Program with Forage in collaboration with TATA
+- 💼 FMCG Sales Analytics Project: Optimized business sales strategies with in-depth Excel and Power BI reports
 - 📈 Delivered **Sales Dashboards** for AtliQ Hardware & Grands  
 - 🎙️ Spearheaded Manipal’s cultural events & entrepreneurship summits
 
@@ -67,9 +65,9 @@ Showcases my best work, learnings, and growth as a data analyst in a clean, visu
 
 ### 📫 Let’s Connect
 
-- 🌐 **Portfolio:** [riddhamjain.codebasics.dev](https://riddhamjain.codebasics.dev)  
-- 💼 **LinkedIn:** [linkedin.com/in/riddhamjain](https://www.linkedin.com/in/riddhamjain/)  
-- 📧 **Email:** riddhamjain190@gmail.com  
+- 🌐 **Portfolio:** [riddhamjain.codebasics.dev](https://codebasics.io/portfolio/Riddham-Jain)  
+- 💼 **LinkedIn:** [linkedin.com/in/riddhamjain](www.linkedin.com/in/ridjain29)  
+- 📧 **Email:** riddhamjainat29@gmail.com  
 - 🧠 **Learning Blog (Coming Soon)**  
 
 ---
