@@ -55,6 +55,7 @@ Showcases my best work, learnings, and growth as a data analyst in a clean, visu
 
 - 🏆 1st Prize Winner (₹50,000) – Forbes Marshall Outstanding Project Awards 2025 
 - 🎓 Completed **Data Analytics Bootcamp** by Codebasics
+- 🏆 Recognized for the McKinsey & Company Forward Program
 - 🎓 Completed Data Visualization Program with Forage in collaboration with TATA
 - 💼 FMCG Sales Analytics Project: Optimized business sales strategies with in-depth Excel and Power BI reports
 - 📈 Delivered **Sales Dashboards** for AtliQ Hardware & Grands  
