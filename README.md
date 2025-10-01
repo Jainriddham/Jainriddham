@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a Data entusiast dedicated to transforming com
 ### 📌 Quick Facts About Me
 
 - 🎓 **B.Tech (Mechanical Engineering)** @ MIT Manipal  
-- 🎯 **Current Focus:** Data Analytics & Visualization  
+- 🎯 **Current Focus:** AI/ML Engineer  
 - 🌱 **Learning:** SQL, Power BI, Excel, Python, Data Warehousing  
 - 🌍 **Fun Fact:** I love bridging the gap between creativity and data!
 
