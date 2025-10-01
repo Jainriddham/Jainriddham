@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Riddham Jain</h1>
 <p align="center">
-  🚀 Aspiring Data Analyst | 🎓 B.Tech in Mechanical Engineering | 🎯 Turning Data into Decisions
+  🚀 Aspiring AI/ML Engineer| 🎓 B.Tech in Mechanical Engineering | 🎯 Turning Data into Decisions
 </p>
 
 ---
