@@ -1,13 +1,13 @@
 <h1 align="center">Hey there! 👋 I'm Riddham Jain</h1>
 <p align="center">
-  🚀 Aspiring AI/ML Engineer| 🎓 B.Tech in Mechanical Engineering | 🎯 Turning Data into Decisions
+  🚀 Aspiring AI/ML Engineer | 🎓 B.Tech in Mechanical Engineering | 🎯 Turning Data into Decisions
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm a Data Analyst dedicated to transforming complex datasets into clear, actionable insights. Proficient in Excel, Power BI, SQL, and Python. I aim to blend technical skills with business insight to create impactful solutions.🚀📊
+Welcome to my GitHub profile! I'm a Data entusiast dedicated to transforming complex datasets into clear, actionable insights. Proficient in SQL, Python and AI skills. I aim to blend technical skills with business insight to create impactful solutions.🚀📊
 
 ---
 
